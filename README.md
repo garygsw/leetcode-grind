@@ -1,3 +1,3 @@
 # leetcode
 
-This repository records how I tackle LeetCode questions.
+This repository records my solutions to the LeetCode questions in Python3.
