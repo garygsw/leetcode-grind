@@ -4,6 +4,25 @@
 
 This repository records my solutions with explanations to the **LeetCode** [problems](https://leetcode.com/problemset/all/).
 
+## Data Structures
+
+- [Array](topics/array.md)
+- [String](topics/string.md)
+- [LinkedList](topics/linked-list.md)
+- [Hash Table](topics/hash-table.md)
+- [Stack](topics/stack.md)
+- [Queue](topics/queue.md)
+- [Tree](topics/tree.md)
+  - [Binary Tree](topics/binary-tree.md)
+
+## Algorithms
+
+- [Two Pointers](topics/two-pointers.md)
+- [Recursion](topics/recursion.md)
+- [Depth-First Search](topics/depth-first-search.md)
+- [Breadth-First Search](topics/breadth-first-search.md)
+- [Dynamic Programming](topics/dynamic-programming.md)
+
 ## License
 
 This work is licensed under MIT License. See [LICENSE](LICENSE.md) for details.
