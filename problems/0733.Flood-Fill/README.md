@@ -32,6 +32,6 @@ Explanation: The starting pixel is already colored 0, so no changes are made to 
 - `m == image.length`
 - `n == image[i].length`
 - `1 <= m, n <= 50`
-- <code>0 <= image[i][j], color < 2<sup>16</sup></code>
+- `0 <= image[i][j], color < 2`<code><sup>16</sup></code>
 - `0 <= sr < m`
 - `0 <= sc < n`
