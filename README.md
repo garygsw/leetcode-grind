@@ -7,6 +7,7 @@ This repository records my solutions with explanations to the **LeetCode** [prob
 ## Data Structures
 
 - [Array](topics/array.md)
+  - [Matrix](topics/matrix.md)
 - [String](topics/string.md)
 - [LinkedList](topics/linked-list.md)
 - [Hash Table](topics/hash-table.md)
@@ -14,6 +15,7 @@ This repository records my solutions with explanations to the **LeetCode** [prob
 - [Queue](topics/queue.md)
 - [Tree](topics/tree.md)
   - [Binary Tree](topics/binary-tree.md)
+  - [Binary Search Tree](topics/binary-search-tree.md)
 
 ## Algorithms
 
