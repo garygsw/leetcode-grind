@@ -22,7 +22,7 @@ This repository records my solutions with explanations to the **LeetCode** [prob
 - [Two Pointers](topics/two-pointers.md)
 - [Binary Search](topics/binary-search.md)
 - [Recursion](topics/recursion.md)
-  - [Depth-First Search](topics/depth-first-search.md)
+- [Depth-First Search](topics/depth-first-search.md)
 - [Breadth-First Search](topics/breadth-first-search.md)
 - [Dynamic Programming](topics/dynamic-programming.md)
 - [Sorting](topics/sorting.md)
