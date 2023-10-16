@@ -6,26 +6,32 @@ This repository records my solutions with explanations to the **LeetCode** [prob
 
 ## Data Structures
 
-- [Array](topics/array.md)
-  - [Matrix](topics/matrix.md)
-- [String](topics/string.md)
-- [LinkedList](topics/linked-list.md)
-- [Hash Table](topics/hash-table.md)
-- [Stack](topics/stack.md)
-- [Queue](topics/queue.md)
-- [Tree](topics/tree.md)
-  - [Binary Tree](topics/binary-tree.md)
-  - [Binary Search Tree](topics/binary-search-tree.md)
+- [Array](tags/array.md)
+  - [Matrix](tags/matrix.md)
+- [String](tags/string.md)
+- [LinkedList](tags/linked-list.md)
+- [Hash Table](tags/hash-table.md)
+- [Stack](tags/stack.md)
+- [Queue](tags/queue.md)
+- [Tree](tags/tree.md)
+  - [Binary Tree](tags/binary-tree.md)
+  - [Binary Search Tree](tags/binary-search-tree.md)
 
 ## Algorithms
 
-- [Two Pointers](topics/two-pointers.md)
-- [Binary Search](topics/binary-search.md)
-- [Recursion](topics/recursion.md)
-- [Depth-First Search](topics/depth-first-search.md)
-- [Breadth-First Search](topics/breadth-first-search.md)
-- [Dynamic Programming](topics/dynamic-programming.md)
-- [Sorting](topics/sorting.md)
+- [Two Pointers](tags/two-pointers.md)
+- [Binary Search](tags/binary-search.md)
+- [Recursion](tags/recursion.md)
+- [Depth-First Search](tags/depth-first-search.md)
+- [Breadth-First Search](tags/breadth-first-search.md)
+- [Dynamic Programming](tags/dynamic-programming.md)
+- [Sorting](tags/sorting.md)
+  - [Merge Sort](tags/merge-sort.md)
+
+## Topics
+
+- [Design](tags/design.md)
+- [Interactive](tags/interactive.md)
 
 ## License
 
