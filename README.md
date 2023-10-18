@@ -30,8 +30,10 @@ This repository records my solutions with explanations to the **LeetCode** [prob
 
 ## Topics
 
+- [Math](tags/math.md)
 - [Design](tags/design.md)
 - [Interactive](tags/interactive.md)
+- [Memoization](tags/memoization.md)
 
 ## License
 
