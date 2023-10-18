@@ -31,6 +31,7 @@ This repository records my solutions with explanations to the **LeetCode** [prob
 ## Topics
 
 - [Math](tags/math.md)
+- [Counting](tags/counting.md)
 - [Design](tags/design.md)
 - [Interactive](tags/interactive.md)
 - [Memoization](tags/memoization.md)
