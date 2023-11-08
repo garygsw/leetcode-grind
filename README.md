@@ -34,7 +34,9 @@ This repository records my solutions with explanations to the **LeetCode** [prob
 - [Counting](tags/counting.md)
 - [Design](tags/design.md)
 - [Interactive](tags/interactive.md)
+- [Simulation](tags/simulation.md)
 - [Memoization](tags/memoization.md)
+- [Bit Manipulation](tags/bit-manipulation.md)
 
 ## License
 
