@@ -1,4 +1,4 @@
-# Breadth-First Search
+# Breadth-first Search
 
 | No.  | Name  | Solution | Difficulty | Time Complexity | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
