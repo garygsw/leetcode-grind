@@ -1,4 +1,4 @@
-# Depth-First Search
+# Depth-first Search
 
 | No.  | Name  | Solution | Difficulty | Time Complexity | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
