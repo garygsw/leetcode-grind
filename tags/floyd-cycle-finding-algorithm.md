@@ -1,4 +1,4 @@
-# Floyd's Cycle Finding
+# Floyd's Cycle Finding Algorithm
 
 | No.  | Name  | Solution | Difficulty | Time Complexity | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
