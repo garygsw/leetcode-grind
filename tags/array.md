@@ -9,3 +9,4 @@
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](https://leetcode.com/problems/majority-element/solutions/4185735/majority-element-python-easy-explanations/) | Easy | $O(n)$ | $O(1)$ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python3](https://leetcode.com/problems/binary-search/solutions/4074950/binary-search-python-easy-explanations/) | Easy | $O(\log n)$ | $O(1)$ |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Python3](https://leetcode.com/problems/flood-fill/solutions/4098937/flood-fill-python-easy-explanations/) | Easy | $O(mn)$ | $O(mn)$ |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python3](https://leetcode.com/problems/running-sum-of-1d-array/solutions/4297313/running-sum-of-1d-array-python-easy-explanations/) | Easy | $O(n)$ | $O(1)$ |
