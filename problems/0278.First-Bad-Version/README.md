@@ -28,8 +28,3 @@ Output: 1
 **Constraints:**
 
 - <code>1 <= bad <= n <= 2<sup></sup> - 1</code>
-
-```python
-# The isBadVersion API is already defined for you.
-def isBadVersion(version: int) -> bool:
-```
