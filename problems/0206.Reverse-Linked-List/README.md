@@ -33,11 +33,3 @@ Output: []
 - `5000 <= Node.val <= 5000`
 
 **Follow up:** A linked list can be reversed either iteratively or recursively. Could you implement both?
-
-```python
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-```
