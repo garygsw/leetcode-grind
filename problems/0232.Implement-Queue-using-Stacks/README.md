@@ -39,12 +39,3 @@ myQueue.empty(); // return false
 - All the calls to `pop` and `peek` are valid.
 
 **Follow-up:** Can you implement the queue such that each operation is **[amortized](https://en.wikipedia.org/wiki/Amortized_analysis)** `O(1)` time complexity? In other words, performing `n` operations will take overall `O(n)` time even if one of those operations may take longer.
-
-```python
-# Your MyQueue object will be instantiated and called as such:
-obj = MyQueue()
-obj.push(x)
-param_2 = obj.pop()
-param_3 = obj.peek()
-param_4 = obj.empty()
-```
